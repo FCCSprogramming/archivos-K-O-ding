@@ -1,3 +1,7 @@
+/*
+    Autor: Manuel Rojas
+*/
+
 #include<iostream>
 #include<fstream>
 #include<cmath>
